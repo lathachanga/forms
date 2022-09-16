@@ -1,0 +1,12 @@
+h1{
+    background-color: blueviolet;
+    font: 200;
+    font-size: medium;
+    font-style: oblique;
+    background: scroll;
+}
+p{
+    background-color: rgb(153, 28, 28);
+    font-size: large;
+    font-style: italic;
+}

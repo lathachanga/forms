@@ -1,0 +1,9 @@
+h1,p{
+    background-color: rgb(185, 19, 47);
+    font-variant: small-caps;
+   font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    background-color: aqua;
+    font-style: oblique;
+}
